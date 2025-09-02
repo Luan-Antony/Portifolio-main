@@ -6,8 +6,8 @@ export const Header = () => {
         <header className="fixed top-0 left-0 w-full z-50 py-6 bg-[#292929e6] border-b-4 border-[#209740]">
             <nav>
                 <ul className="flex flex-wrap gap-4 items-center justify-center md:justify-evenly">
-                    <li><a href="#projetos" className={navLink}>Projetos</a></li>
                     <li><a href="#habilidades" className={navLink}>Habilidades</a></li>
+                    <li><a href="#projetos" className={navLink}>Projetos</a></li>
                     <li><a href="#contato" className={navLink}>Contato</a></li>
                 </ul>
             </nav>
