@@ -5,7 +5,7 @@ export const Sobre = () => {
 
             <div className="flex-1 flex justify-center p-4 self-center">
                 <img
-                    src="/public/dev.png"
+                    src="/dev.png"
                     alt="Foto de Luan Antony"
                     className="shadow-lg w-[80%] h-[80%] rounded-full border-[#209740]"
                 />
