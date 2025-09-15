@@ -7,7 +7,7 @@ export const Footer = () => {
         <footer id="contato" className="bg-[#292929] text-gray-300 py-10">
             <div className="max-w-6xl mx-auto px-6 flex flex-col justify-center items-center gap-6">
                 <nav>
-                    <ul className="flex flex-col gap-4 text-1xl items-center text-center">
+                    <ul className="flex flex-col gap-4 text-xl items-center text-center">
                         <li>
                             <p>Luan Antony | 15/12/2002</p>
                         </li>

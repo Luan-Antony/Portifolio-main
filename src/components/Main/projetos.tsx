@@ -28,14 +28,14 @@ const projects: Project[] = [
 
 export const Projetos = () => {
     return (
-        <section id="projetos" className="flex py-12 px-6 sm:px-10 md:px-16 lg:px-30 lg:py-40 text-white">
+        <section id="projetos" className="flex py-12 px-6 sm:px-10 md:px-16 lg:px-28 lg:py-20 text-white">
             <div className="flex-1 py-20 bg-[#292929] shadow-[0_0_5px_5px_#209740]">
                 <h2 className="text-2xl sm:text-3xl font-bold mb-8 text-center uppercase">Projetos</h2>
                 <ul
                     className="
                         grid gap-8 sm:gap-10 
                         grid-cols-1 sm:grid-cols-2 lg:grid-cols-3
-                        py-10 px-4 sm:px-8 md:px-10 lg:py-20
+                        py-10 px-4 sm:px-8 md:px-10
                         place-items-center
                     "
                 >

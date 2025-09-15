@@ -29,7 +29,7 @@ const skills: Skill[] = [
 
 export const Habilidades = () => {
     return (
-        <section id="habilidades" className="flex py-10 px-4 sm:px-8 md:px-16 lg:px-30 text-white">
+        <section id="habilidades" className="flex py-10 px-4 sm:px-8 md:px-16 lg:px-28 text-white">
             <div className="flex-1 py-20 bg-[#292929] shadow-[0_0_5px_5px_#209740]">
                 <h2 className="text-2xl sm:text-3xl font-bold mb-8 text-center uppercase">
                     Habilidades
@@ -38,7 +38,7 @@ export const Habilidades = () => {
                     className="
                         grid gap-6 sm:gap-8 md:gap-10 
                         grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5
-                        py-10 sm:py-14 px-4 sm:px-6 md:px-10 lg:py-20
+                        py-10 px-4 sm:px-6 md:px-10
                         place-items-center
                     "
                 >

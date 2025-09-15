@@ -5,7 +5,7 @@ import { Projetos } from './projetos';
 
 export function Main() {
     return (
-        <main className="bg-[#1d1d1d]">
+        <main className="bg-[#1d1d1d] pt-22">
             <Sobre />
             <Habilidades />
             <Projetos />

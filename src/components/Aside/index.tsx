@@ -4,7 +4,7 @@ const btnClass = "p-3 bg-gray-800 hover:bg-[#209740] text-white rounded-lg trans
 
 export const Aside = () => {
     return (
-        <aside className="fixed top-1/2 left-0 transform -translate-y-1/2 flex flex-col gap-4 bg-[#292929] p-3 rounded-r-lg shadow-lg z-50">
+        <aside className="hidden md:flex fixed top-1/2 left-0 transform -translate-y-1/2 flex-col gap-4 bg-[#292929] p-3 rounded-r-lg shadow-lg z-50">
 
             <a
                 href="https://github.com/Luan-Antony"
