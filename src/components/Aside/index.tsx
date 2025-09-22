@@ -30,7 +30,7 @@ export const Aside = () => {
                 <FaEnvelope size={24} />
             </a>
 
-            <a href="https://drive.google.com/file/d/1sD6kpFps4XXdD4_jEDnsDpgOW-xwtAsz/view?usp=sharing"
+            <a href="https://drive.google.com/file/d/1Sl06Sstaq7l6rQ0ckXpaaoV1hBkJYyvB/view?usp=sharing"
                 target="_blank"
                 className={btnClass}
             >

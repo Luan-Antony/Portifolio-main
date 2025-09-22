@@ -34,7 +34,7 @@ export const Footer = () => {
                 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fplpgluan@gmail.com" target="_blank" className={aClass}>
                     <FaEnvelope/>
                 </a>
-                <a href="https://drive.google.com/file/d/1bwpfE6WriFFoQ8hW2EPw_lAepyhC66bY/view?usp=sharing " target="_blank" className={aClass}>
+                <a href="https://drive.google.com/file/d/1Sl06Sstaq7l6rQ0ckXpaaoV1hBkJYyvB/view?usp=sharing" target="_blank" className={aClass}>
                     <FaFileAlt />
                 </a>
             </div>
