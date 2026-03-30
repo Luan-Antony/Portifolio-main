@@ -34,7 +34,7 @@ export const Sobre = () => {
                     <a
                         className="bg-[#209740] text-white py-4 px-18 rounded hover:bg-[#1a7a2d] transition-colors"
                         target="_blank"
-                        href="https://drive.google.com/file/d/1Sl06Sstaq7l6rQ0ckXpaaoV1hBkJYyvB/view?usp=sharing"
+                        href="https://drive.google.com/file/d/15MESsa4LS6iEJcS98f9tqp-p8hYfBCI1/view?usp=drive_link"
                     >
                         Visualizar Currículo
                     </a>
