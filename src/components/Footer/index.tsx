@@ -9,7 +9,7 @@ export const Footer = () => {
                 <nav>
                     <ul className="flex flex-col gap-4 text-xl items-center text-center">
                         <li>
-                            <p>Luan Antony | 15/12/2002</p>
+                            <p>Luan Antony</p>
                         </li>
                         <li>
                             <p>Praia Grande, SP</p>
