@@ -15,7 +15,7 @@ export const Footer = () => {
                             <p>Praia Grande, SP</p>
                         </li>
                         <li>
-                            <p>(13) 98123-4567 | (13) 3472-0675</p>
+                            <p>(13) 98123-4567</p>
                         </li>
                         <li>
                             <p>fplpgluan@gmail.com</p>
